@@ -1,4 +1,4 @@
-### Project 4 — AI Analytics Assistant (Capstone)
+### Project 4 — AI Analytics Assistant 
 - FastAPI backend with file upload and question endpoints
 - ReAct agent autonomously decides which tools to use
 - Tools: load dataset, run analysis, get statistics, generate charts
