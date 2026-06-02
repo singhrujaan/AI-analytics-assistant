@@ -1,0 +1,17 @@
+anthropic
+fastapi
+uvicorn
+python-multipart
+pandas
+matplotlib
+scikit-learn
+numpy
+qdrant-client
+sentence-transformers
+python-dotenv
+pydantic
+httpx
+anyio
+ipykernel
+seaborn
+scipy
