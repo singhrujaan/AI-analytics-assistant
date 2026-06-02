@@ -5,4 +5,4 @@
 - Claude explains findings in plain English
 - Returns structured JSON with answer + chart paths
 - **Stack:** FastAPI, Anthropic Claude, pandas, matplotlib, Pydantic
-- **Run:** uvicorn project4.app:app --reload --port 8000
+- **Run:** uvicorn app:app --reload --port 8000
